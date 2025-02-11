@@ -42,7 +42,7 @@ Before you begin, ensure you have the following installed:
 
     d. Download yolov3.weights: Download the yolov3.weights file (you'll need to find a suitable source for this pre-trained model; the original YOLO website or other reputable sources are good options) and place it in the yolo-coco directory.  (Note: The weights file is usually quite large.)
 
-**#### Running the Object Detection**
+#### **Running the Object Detection**
 Once the setup is complete, you can run the object detection script.  Replace `<your_script_name.py>` with the actual name of your Python script.  You'll likely need to provide arguments specifying the image or video file you want to process, as well as the paths to the configuration and weights files.
 
 ```
